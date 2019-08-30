@@ -1,12 +1,14 @@
 # CS Core Courses
-<img src="https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/four_college.jpg" width="600px">
-
-最近一段时间，小编研究了美国四大计算机名校：加州大学伯克利分校(UC Berkeley)、麻省理工学院(MIT)、斯坦福大学(Stanford)、卡耐基梅隆大学(CMU)的计算机专业培养方案。本文将对这四所高校进行总结，列出各自的特点以及**核心课程资源**，方便大家学习。
+>研究了美国四大计算机名校：加州大学伯克利分校(UC Berkeley)、麻省理工学院(MIT)、斯坦福大学(Stanford)、卡耐基梅隆大学(CMU)的计算机专业培养方案。本项目将对这四所高校进行总结，列出各自的特点以及**核心课程资源**，方便大家学习。
 
 由于个人局限，内容如果有误还请指正，或者点击原文跳转到GitHub提Issue和PR。
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/four_college.jpg" width="600px">
+</div>
+
 ## UC Berkeley
-UC Berkeley的课程编号统一，每一门课分别对应研究生课程和本科生课程，子编号是一致的。学校非常贴心地用专门的网页把所教授的课程整理好，包括课程的历史归档，方便学生查找学习。
+UC Berkeley的课程编号统一，每一门课分别对应研究生课程和本科生课程，子编号是一致的。学校非常贴心地用专门的网页把所有课程整理好，包括课程的历史归档，方便学生查找学习。
 
 | 方向 | 课程 |
 | :------: | :------ |
@@ -23,7 +25,7 @@ UC Berkeley的课程编号统一，每一门课分别对应研究生课程和本
 以上所有课程都可以访问[EECS Course WEB Sites](http://www-inst.eecs.berkeley.edu/classes-eecs.html)查找。
 
 ## MIT
-MIT的课程非常全，基本没有你学不到的，内容也比较前言，社会前沿内容比如区块链很早就开设了。老师和助教都很会讲课，基本每一门课都是精品课，值得学习。遗憾的地方在于MIT的课程、在线资料没有统一的网页进行归纳整理，有些课程需要学生自己去寻找资源。
+MIT的课程非常全，基本没有你学不到的，内容也比较前沿：社会前沿内容比如区块链很早就开设了。老师和助教都很会讲课，基本每一门课都是精品课，值得学习。遗憾的地方在于MIT的课程、在线资料没有统一的网页进行归纳整理，有些课程需要学生自己去寻找资源。
 
 | 方向 | 课程 |
 | :------: | :------ |
@@ -51,7 +53,7 @@ Stanford和硅谷相辅相成，互相成就彼此。Stanford的教授、学生�
 | 数据库 | [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/) |
 
 ## CMU
-CMU的计算机独立设院，涵盖了所有的专业：人工智能、软件工程、计算机科学等。CMU拥有最好的人工智能和软件工程专业。CMU非常务实，校训就是`我心于业`(专注于搬砖)，对学生要求高，课业负担重。因此它的本课程在雇主中声誉很高。
+CMU的计算机独立设院，涵盖了所有的专业：人工智能、软件工程、计算机科学等。CMU拥有最好的人工智能和软件工程专业。非常务实，校训就是`My heart is in the work（我心于业）`，对学生要求高，课业负担重。因此她的本科毕业生在雇主中声誉很高。
 
 | 方向 | 课程 |
 | :------: | :------ |
@@ -63,9 +65,9 @@ CMU的计算机独立设院，涵盖了所有的专业：人工智能、软件�
 | 数据库 | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu) |
 
 ## 总结
-![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/101_365.png)
-
 优秀的学校并不是每个人都可以录取，但是我们可以学习它们的优秀课程来提高自己。只要坚持正确的方向，不断努力和调整自己，每个人都会获得进步！
+
+![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/101_365.png)
 
 ## Reference
 - [全民CS、校训就是搬砖，这所学校计算机顶尖是有原因的](https://mp.weixin.qq.com/s/Nm4doXPPDzJJS0RSU5YSkA)
