@@ -1,11 +1,11 @@
 # CS Core Courses
->研究了美国四大计算机名校：加州大学伯克利分校(UC Berkeley)、麻省理工学院(MIT)、斯坦福大学(Stanford)、卡耐基梅隆大学(CMU)的计算机专业培养方案。本项目将对这四所高校进行总结，列出各自的特点以及**核心课程资源**，方便大家学习。
-
-由于个人局限，内容如果有误还请指正，或者点击原文跳转到GitHub提Issue和PR。
+[English](README_en.md)
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/four_college.jpg" width="600px">
 </div>
+
+>研究了美国四大计算机名校：加州大学伯克利分校(UC Berkeley)、麻省理工学院(MIT)、斯坦福大学(Stanford)和卡耐基梅隆大学(CMU)的计算机专业培养方案。本项目将对这四所高校进行总结，列出各自的特点以及**核心课程资源**，方便大家学习。
 
 ## UC Berkeley
 UC Berkeley的课程编号统一，每一门课分别对应研究生课程和本科生课程，子编号是一致的。学校非常贴心地用专门的网页把所有课程整理好，包括课程的历史归档，方便学生查找学习。
@@ -74,6 +74,5 @@ CMU的计算机独立设院，涵盖了所有的专业：人工智能、软件�
 - [为了培养计算机学生，这所学校把地租给科技公司，没想到......](https://mp.weixin.qq.com/s/deq-cT9139bJF7UGN4H8cA)
 - [麻省理工学院是如何培养计算机学生的](https://mp.weixin.qq.com/s/eS-9OWZ1nWSPcrNd_GbuVA)
 - [UC Berkeley EECS系是如何培养计算机学生的](https://mp.weixin.qq.com/s/P2tNxWQW8nIewvw_jHdhFQ)
-- [GitHub adolphlwq/cs-core-course](https://github.com/adolphlwq/cs-core-course)
 - [知乎-如何的才能更好的学习MIT6.824分布式系统课程？
 ](https://www.zhihu.com/question/29597104)
