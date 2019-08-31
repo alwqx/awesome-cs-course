@@ -54,12 +54,13 @@ All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-in
 | Compilers | [15-411 Compiler Design](https://www.cs.cmu.edu/~fp/courses/15411-f13/) |
 | Database | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu) |
 
-## 总结
+## Summary
 CS courses of university are helpful for us to learn computer science.As long as we stick to the right direction, keep working hard and adjust ourselves, everyone will make progress!
 
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/101_365.png)
 
 ## Reference
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 - [全民CS、校训就是搬砖，这所学校计算机顶尖是有原因的](https://mp.weixin.qq.com/s/Nm4doXPPDzJJS0RSU5YSkA)
 - [为了培养计算机学生，这所学校把地租给科技公司，没想到......](https://mp.weixin.qq.com/s/deq-cT9139bJF7UGN4H8cA)
 - [麻省理工学院是如何培养计算机学生的](https://mp.weixin.qq.com/s/eS-9OWZ1nWSPcrNd_GbuVA)
