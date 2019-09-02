@@ -85,7 +85,13 @@ All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-in
         <tr>
             <td align="center">Database</td>
             <td align="left">
-                <a href="http://web.stanford.edu/class/cs245/" rel="nofollow">Principles of Data-Intensive Systems</a>
+                <a href="http://web.stanford.edu/class/cs245/" rel="nofollow">CS 245 Principles of Data-Intensive Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">ML</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs221/" rel="nofollow">CS 221 CS221: Artificial Intelligence: Principles and Techniques</a>
             </td>
         </tr>
     </tbody>

@@ -93,7 +93,13 @@ Stanford和硅谷相辅相成，互相成就彼此。Stanford的教授、学生�
         <tr>
             <td align="center">数据库</td>
             <td align="left">
-                <a href="http://web.stanford.edu/class/cs245/" rel="nofollow">Principles of Data-Intensive Systems</a>
+                <a href="http://web.stanford.edu/class/cs245/" rel="nofollow">CS 245 Principles of Data-Intensive Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">ML</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs221/" rel="nofollow">CS 221 CS221: Artificial Intelligence: Principles and Techniques</a>
             </td>
         </tr>
     </tbody>
