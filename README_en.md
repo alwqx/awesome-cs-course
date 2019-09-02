@@ -35,14 +35,61 @@ All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-in
 | 计算机程序的构造和解释 | [6.001 Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) |
 
 ## Stanford
-| Field | Course |
-| :------: | :------ |
-| Algorithm | [CS 161 Design and Analysis of Algorithms](http://web.stanford.edu/class/cs161/) |
-| Operation System | [CS 140 Operating Systems](http://cs140.stanford.edu) |
-| Computer Network | [CS 155 Computer and Network Security](https://cs155.stanford.edu) |
-| Computer Architecture | [CS 107 Computer Organization & Systems](cs107.stanford.edu) |
-| Compilers | [CS 143 Compiler construction](https://web.stanford.edu/class/cs143/) |
-| Database | [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/) |
+<table>
+    <thead>
+        <tr>
+            <th align="center">Field</th>
+            <th align="left">Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th rowspan="4" align="center">Operation System</th>
+            <td align="left">
+                <a href="http://cs107.stanford.edu" rel="nofollow">CS 107 Computer Organization & Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://cs110.stanford.edu" rel="nofollow">CS 110 Principles of Computer Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://cs140.stanford.edu" rel="nofollow">CS 140 Operating Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://cs240.stanford.edu" rel="nofollow">CS 240 Advanced Topics in Operating Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Algorithm</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs161/" rel="nofollow">CS 161 Design and Analysis of Algorithms</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Computer Network</td>
+            <td align="left">
+                <a href="https://cs155.stanford.edu" rel="nofollow">CS 155 Computer and Network Security</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Compilers</td>
+            <td align="left">
+                <a href="https://web.stanford.edu/class/cs143/" rel="nofollow">CS 143 Compiler construction</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Database</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs245/" rel="nofollow">Principles of Data-Intensive Systems</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## CMU
 | Field | Course |

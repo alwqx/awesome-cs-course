@@ -43,14 +43,61 @@ MIT的课程非常全，基本没有你学不到的，内容也比较前沿：�
 
 Stanford和硅谷相辅相成，互相成就彼此。Stanford的教授、学生和工业界紧密联系，部分课程的老师把重点放在开公司上，会聘请老师代课。
 
-| 方向 | 课程 |
-| :------: | :------ |
-| 算法 | [CS 161 Design and Analysis of Algorithms](http://web.stanford.edu/class/cs161/) |
-| 操作系统 | [CS 140 Operating Systems](http://cs140.stanford.edu) |
-| 网络 | [CS 155 Computer and Network Security](https://cs155.stanford.edu) |
-| 体系结构 | [CS 107 Computer Organization & Systems](cs107.stanford.edu) |
-| 编译原理 | [CS 143 Compiler construction](https://web.stanford.edu/class/cs143/) |
-| 数据库 | [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/) |
+<table>
+    <thead>
+        <tr>
+            <th align="center">方向</th>
+            <th align="left">课程</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th rowspan="4" align="center">操作系统</th>
+            <td align="left">
+                <a href="http://cs107.stanford.edu" rel="nofollow">CS 107 Computer Organization & Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://cs110.stanford.edu" rel="nofollow">CS 110 Principles of Computer Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://cs140.stanford.edu" rel="nofollow">CS 140 Operating Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://cs240.stanford.edu" rel="nofollow">CS 240 Advanced Topics in Operating Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">算法</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs161/" rel="nofollow">CS 161 Design and Analysis of Algorithms</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">网络</td>
+            <td align="left">
+                <a href="https://cs155.stanford.edu" rel="nofollow">CS 155 Computer and Network Security</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">编译原理</td>
+            <td align="left">
+                <a href="https://web.stanford.edu/class/cs143/" rel="nofollow">CS 143 Compiler construction</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">数据库</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs245/" rel="nofollow">Principles of Data-Intensive Systems</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## CMU
 CMU的计算机独立设院，涵盖了所有的专业：人工智能、软件工程、计算机科学等。CMU拥有最好的人工智能和软件工程专业。非常务实，校训就是`My heart is in the work（我心于业）`，对学生要求高，课业负担重。因此她的本科毕业生在雇主中声誉很高。
