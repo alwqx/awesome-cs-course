@@ -44,9 +44,14 @@ All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-in
     </thead>
     <tbody>
         <tr>
-            <th rowspan="4" align="center">Operation System</th>
+            <th rowspan="5" align="center">Operation System</th>
             <td align="left">
                 <a href="http://cs107.stanford.edu" rel="nofollow">CS 107 Computer Organization & Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="https://cs107e.github.io/" rel="nofollow">CS 107E Computer Systems from the Ground Up</a>
             </td>
         </tr>
         <tr>
@@ -113,6 +118,7 @@ CS courses of university are helpful for us to learn computer science.As long as
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/101_365.png)
 
 ## Reference
+- [研究了美国四大计算机名校的培养方案，核心课程都在这了](https://mp.weixin.qq.com/s/39Un5UkLULC39s3PX10AbA)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 - [全民CS、校训就是搬砖，这所学校计算机顶尖是有原因的](https://mp.weixin.qq.com/s/Nm4doXPPDzJJS0RSU5YSkA)
 - [为了培养计算机学生，这所学校把地租给科技公司，没想到......](https://mp.weixin.qq.com/s/deq-cT9139bJF7UGN4H8cA)
