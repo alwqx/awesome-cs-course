@@ -124,5 +124,6 @@ CS courses of university are helpful for us to learn computer science.As long as
 - [为了培养计算机学生，这所学校把地租给科技公司，没想到......](https://mp.weixin.qq.com/s/deq-cT9139bJF7UGN4H8cA)
 - [麻省理工学院是如何培养计算机学生的](https://mp.weixin.qq.com/s/eS-9OWZ1nWSPcrNd_GbuVA)
 - [UC Berkeley EECS系是如何培养计算机学生的](https://mp.weixin.qq.com/s/P2tNxWQW8nIewvw_jHdhFQ)
+- [CMU 2015 15-213 BiliBili videos](https://www.bilibili.com/video/av12977597)
 - [知乎-如何的才能更好的学习MIT6.824Distributed System课程？
 ](https://www.zhihu.com/question/29597104)
