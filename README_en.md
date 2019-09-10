@@ -127,3 +127,5 @@ CS courses of university are helpful for us to learn computer science.As long as
 - [CMU 2015 15-213 BiliBili videos](https://www.bilibili.com/video/av12977597)
 - [知乎-如何的才能更好的学习MIT6.824Distributed System课程？
 ](https://www.zhihu.com/question/29597104)
+- [GitHub-phil-opp/blog_os](https://github.com/phil-opp/blog_os)
+- [oscourse-tsinghua/rcore_plus](https://github.com/oscourse-tsinghua/rcore_plus)
