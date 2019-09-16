@@ -112,6 +112,11 @@ All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-in
 | Compilers | [15-411 Compiler Design](https://www.cs.cmu.edu/~fp/courses/15411-f13/) |
 | Database | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu) |
 
+## Shanghai Jiao Tong University
+| Field | Course |
+| :------: | :------ |
+| Reinforcement Learning | [CS26015, Fall 2019](http://www.cs.sjtu.edu.cn/~zou-jn/teaching.html) |
+
 ## Summary
 CS courses of university are helpful for us to learn computer science.As long as we stick to the right direction, keep working hard and adjust ourselves, everyone will make progress!
 
