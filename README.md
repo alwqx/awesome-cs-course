@@ -107,6 +107,12 @@ Stanford和硅谷相辅相成，互相成就彼此。Stanford的教授、学生�
                 <a href="http://web.stanford.edu/class/cs221/" rel="nofollow">CS 221 CS221: Artificial Intelligence: Principles and Techniques</a>
             </td>
         </tr>
+        <tr>
+            <td align="center">数值优化</td>
+            <td align="left">
+                <a href="https://web.stanford.edu/class/cme304/" rel="nofollow">CME 304 Numerical Optimization</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
