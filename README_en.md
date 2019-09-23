@@ -129,6 +129,7 @@ CS courses of university are helpful for us to learn computer science.As long as
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/101_365.png)
 
 ## Reference
+- [MIT pdos GitHub](https://github.com/mit-pdos/)
 - [研究了美国四大计算机名校的培养方案，核心课程都在这了](https://mp.weixin.qq.com/s/39Un5UkLULC39s3PX10AbA)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 - [全民CS、校训就是搬砖，这所学校计算机顶尖是有原因的](https://mp.weixin.qq.com/s/Nm4doXPPDzJJS0RSU5YSkA)
