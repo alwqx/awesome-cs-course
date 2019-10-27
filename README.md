@@ -133,12 +133,19 @@ CMU的计算机独立设院，涵盖了所有的专业：人工智能、软件�
 | :------: | :------ |
 | Reinforcement Learning | [CS26015, Fall 2019](http://www.cs.sjtu.edu.cn/~zou-jn/teaching.html) |
 
+
+## 纽约大学
+| Field | Course |
+| :------: | :------ |
+| Machine Learning | [DS-GA 1003, Spring 2019](https://davidrosenberg.github.io/ml2019/#home) |
+
 ## 总结
 优秀的学校并不是每个人都可以录取，但是我们可以学习它们的优秀课程来提高自己。只要坚持正确的方向，不断努力和调整自己，每个人都会获得进步！
 
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/101_365.png)
 
 ## Reference
+- [机器学习最好的课程是什么？](https://www.zhihu.com/question/37031588)
 - [MIT pdos GitHub](https://github.com/mit-pdos/)
 - [研究了美国四大计算机名校的培养方案，核心课程都在这了](https://mp.weixin.qq.com/s/39Un5UkLULC39s3PX10AbA)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)

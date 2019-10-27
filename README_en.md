@@ -123,12 +123,18 @@ All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-in
 | :------: | :------ |
 | Reinforcement Learning | [CS26015, Fall 2019](http://www.cs.sjtu.edu.cn/~zou-jn/teaching.html) |
 
+## NYU
+| Field | Course |
+| :------: | :------ |
+| Machine Learning | [DS-GA 1003, Spring 2019](https://davidrosenberg.github.io/ml2019/#home) |
+
 ## Summary
 CS courses of university are helpful for us to learn computer science.As long as we stick to the right direction, keep working hard and adjust ourselves, everyone will make progress!
 
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/101_365.png)
 
 ## Reference
+- [机器学习最好的课程是什么？](https://www.zhihu.com/question/37031588)
 - [MIT pdos GitHub](https://github.com/mit-pdos/)
 - [研究了美国四大计算机名校的培养方案，核心课程都在这了](https://mp.weixin.qq.com/s/39Un5UkLULC39s3PX10AbA)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
