@@ -147,3 +147,7 @@ CS courses of university are helpful for us to learn computer science.As long as
 ](https://www.zhihu.com/question/29597104)
 - [GitHub-phil-opp/blog_os](https://github.com/phil-opp/blog_os)
 - [oscourse-tsinghua/rcore_plus](https://github.com/oscourse-tsinghua/rcore_plus)
+
+### For Database
+- [Database System Concepts Seventh Edition](https://www.db-book.com/db7/index.html)
+- [GitHub of CMU DB](https://github.com/cmu-db)
