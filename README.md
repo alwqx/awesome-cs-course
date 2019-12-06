@@ -145,6 +145,8 @@ CMU的计算机独立设院，涵盖了所有的专业：人工智能、软件�
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/101_365.png)
 
 ## Reference
+- [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824)
+- [aQuaYi/MIT-6.824-Distributed-Systems](https://github.com/aQuaYi/MIT-6.824-Distributed-Systems)
 - [机器学习最好的课程是什么？](https://www.zhihu.com/question/37031588)
 - [MIT pdos GitHub](https://github.com/mit-pdos/)
 - [研究了美国四大计算机名校的培养方案，核心课程都在这了](https://mp.weixin.qq.com/s/39Un5UkLULC39s3PX10AbA)
