@@ -113,6 +113,7 @@ All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-in
 | :------: | :------ |
 | Algorithm | [15-451/651: Algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-s18/www/) |
 | Operation System | [15-213 Introduction to Computer Systems](http://www.cs.cmu.edu/~213/) |
+| Distributed Systems | [15-440 Distributed Systems](http://www.cs.cmu.edu/~srini/15-440/) & [course profiles](https://csd.cs.cmu.edu/course-profiles/15-440_640-distributed-systems)|
 | Computer Network | [15-441/641 Computer Networks](https://computer-networks.github.io/sp19/) |
 | Computer Architecture | [18-447 Introduction to Computer Architecture]() |
 | Compilers | [15-411 Compiler Design](https://www.cs.cmu.edu/~fp/courses/15411-f13/) |
