@@ -7,21 +7,6 @@
 
 >some awesome CS core courses of MIT, UC Berkeley, Stanford and CMU from the Internet.
 
-## UC Berkeley
-| Field | Course |
-| :------: | :------ |
-| Algorithm | [CS61B Data Structures ](http://www-inst.eecs.berkeley.edu/~cs61b) |
-| Operation System | [CS162 Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/) |
-| Computer Network | [CS168 Introduction to the Internet](http://www-inst.eecs.berkeley.edu/~cs168) |
-| Computer Architecture | [CS152 Computer Architecture and Engineering](http://www-inst.eecs.berkeley.edu/~cs152) |
-| Compilers | [CS164 Programming Languages and Compilers](http://www-inst.eecs.berkeley.edu/~cs164) |
-| Database | [CS186 Introduction to Database Systems](http://www-inst.eecs.berkeley.edu/~cs186) |
-| 计算机程序的构造和解释 | [CS61A Structure and Interpretation of Computer Programs](https://cs61a.org/) |
-| AI | [CS188 Introduction to Artificial Intelligence](http://www-inst.eecs.berkeley.edu/~cs188) |
-| ML | [CS189 Introduction to Machine Learning](http://www-inst.eecs.berkeley.edu/~cs189) |
-
-All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-inst.eecs.berkeley.edu/classes-eecs.html).
-
 ## MIT
 | Field | Course |
 | :------: | :------ |
@@ -118,6 +103,21 @@ All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-in
 | Computer Architecture | [18-447 Introduction to Computer Architecture]() |
 | Compilers | [15-411 Compiler Design](https://www.cs.cmu.edu/~fp/courses/15411-f13/) |
 | Database | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu) |
+
+## UC Berkeley
+| Field | Course |
+| :------: | :------ |
+| Algorithm | [CS61B Data Structures ](http://www-inst.eecs.berkeley.edu/~cs61b) |
+| Operation System | [CS162 Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/) |
+| Computer Network | [CS168 Introduction to the Internet](http://www-inst.eecs.berkeley.edu/~cs168) |
+| Computer Architecture | [CS152 Computer Architecture and Engineering](http://www-inst.eecs.berkeley.edu/~cs152) |
+| Compilers | [CS164 Programming Languages and Compilers](http://www-inst.eecs.berkeley.edu/~cs164) |
+| Database | [CS186 Introduction to Database Systems](http://www-inst.eecs.berkeley.edu/~cs186) |
+| 计算机程序的构造和解释 | [CS61A Structure and Interpretation of Computer Programs](https://cs61a.org/) |
+| AI | [CS188 Introduction to Artificial Intelligence](http://www-inst.eecs.berkeley.edu/~cs188) |
+| ML | [CS189 Introduction to Machine Learning](http://www-inst.eecs.berkeley.edu/~cs189) |
+
+All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-inst.eecs.berkeley.edu/classes-eecs.html).
 
 ## Shanghai Jiao Tong University
 | Field | Course |
