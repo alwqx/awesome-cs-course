@@ -123,7 +123,7 @@ UC Berkeley的课程编号统一，每一门课分别对应研究生课程和本
 | 体系结构 | [CS152 Computer Architecture and Engineering](http://www-inst.eecs.berkeley.edu/~cs152) |
 | 编译原理 | [CS164 Programming Languages and Compilers](http://www-inst.eecs.berkeley.edu/~cs164) |
 | 数据库 | [CS186 Introduction to Database Systems](http://www-inst.eecs.berkeley.edu/~cs186) |
-| 计算机程序的构造和解释 | [CS61A Structure and Interpretation of Computer Programs](https://cs61a.org/) |
+| 计算机程序的构造和解释 | [CS61A Structure and Interpretation of Computer Programs](https://cs61a.org/) && [SICP of Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh) |
 | AI | [CS188 Introduction to Artificial Intelligence](http://www-inst.eecs.berkeley.edu/~cs188) |
 | ML | [CS189 Introduction to Machine Learning](http://www-inst.eecs.berkeley.edu/~cs189) |
 

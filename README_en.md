@@ -113,7 +113,7 @@
 | Computer Architecture | [CS152 Computer Architecture and Engineering](http://www-inst.eecs.berkeley.edu/~cs152) |
 | Compilers | [CS164 Programming Languages and Compilers](http://www-inst.eecs.berkeley.edu/~cs164) |
 | Database | [CS186 Introduction to Database Systems](http://www-inst.eecs.berkeley.edu/~cs186) |
-| 计算机程序的构造和解释 | [CS61A Structure and Interpretation of Computer Programs](https://cs61a.org/) |
+| 计算机程序的构造和解释 | [CS61A Structure and Interpretation of Computer Programs](https://cs61a.org/) && [SICP of Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh) |
 | AI | [CS188 Introduction to Artificial Intelligence](http://www-inst.eecs.berkeley.edu/~cs188) |
 | ML | [CS189 Introduction to Machine Learning](http://www-inst.eecs.berkeley.edu/~cs189) |
 
