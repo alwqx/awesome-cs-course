@@ -8,16 +8,17 @@
 >some awesome CS core courses of MIT, UC Berkeley, Stanford and CMU from the Internet.
 
 ## MIT
-| Field | Course |
-| :------: | :------ |
-| Algorithm | [6.006 Introduction to Algorithms](https://courses.csail.mit.edu/6.006/) |
-| Operation System | [6.828 Operating Systems](https://pdos.csail.mit.edu/6.828/2019/) |
-| Distributed System | [6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/) |
-| Computer Network | [6.207[J] Networks]() |
-| Computer Architecture | [6.004 Computation Structures](https://computationstructures.org/) |
-| Compilers | [6.035 Computer Language Engineering](http://web.mit.edu/6.035/) |
-| Database | [6.830/6.814: Database Systems](http://db.csail.mit.edu/6.830/) |
-| 计算机程序的构造和解释 | [6.001 Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) |
+|                   Field                   | Course                                                                                                                                                                                                  |
+| :---------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                 Algorithm                 | [6.006 Introduction to Algorithms](https://courses.csail.mit.edu/6.006/)                                                                                                                                |
+|             Operation System              | [6.828 Operating Systems](https://pdos.csail.mit.edu/6.828/2019/)                                                                                                                                       |
+|            Distributed System             | [6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/)                                                                                                                                          |
+|             Computer Network              | [6.207[J] Networks]()                                                                                                                                                                                   |
+|           Computer Architecture           | [6.004 Computation Structures](https://computationstructures.org/)                                                                                                                                      |
+|                 Compilers                 | [6.035 Computer Language Engineering](http://web.mit.edu/6.035/)                                                                                                                                        |
+|                 Database                  | [6.830/6.814: Database Systems](http://db.csail.mit.edu/6.830/)                                                                                                                                         |
+|          计算机程序的构造和解释           | [6.001 Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) |
+| The Missing Semester of Your CS Education | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)                                                                                                                             |
 
 ## Stanford
 <table>
@@ -94,39 +95,39 @@
 </table>
 
 ## CMU
-| Field | Course |
-| :------: | :------ |
-| Algorithm | [15-451/651: Algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-s18/www/) |
-| Operation System | [15-213 Introduction to Computer Systems](http://www.cs.cmu.edu/~213/) |
-| Distributed Systems | [15-440 Distributed Systems](http://www.cs.cmu.edu/~srini/15-440/) & [course profiles](https://csd.cs.cmu.edu/course-profiles/15-440_640-distributed-systems)|
-| Computer Network | [15-441/641 Computer Networks](https://computer-networks.github.io/sp19/) |
-| Computer Architecture | [18-447 Introduction to Computer Architecture]() |
-| Compilers | [15-411 Compiler Design](https://www.cs.cmu.edu/~fp/courses/15411-f13/) |
-| Database | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu) |
+|         Field         | Course                                                                                                                                                        |
+| :-------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|       Algorithm       | [15-451/651: Algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-s18/www/)                                                                          |
+|   Operation System    | [15-213 Introduction to Computer Systems](http://www.cs.cmu.edu/~213/)                                                                                        |
+|  Distributed Systems  | [15-440 Distributed Systems](http://www.cs.cmu.edu/~srini/15-440/) & [course profiles](https://csd.cs.cmu.edu/course-profiles/15-440_640-distributed-systems) |
+|   Computer Network    | [15-441/641 Computer Networks](https://computer-networks.github.io/sp19/)                                                                                     |
+| Computer Architecture | [18-447 Introduction to Computer Architecture]()                                                                                                              |
+|       Compilers       | [15-411 Compiler Design](https://www.cs.cmu.edu/~fp/courses/15411-f13/)                                                                                       |
+|       Database        | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu)                                                                                               |
 
 ## UC Berkeley
-| Field | Course |
-| :------: | :------ |
-| Algorithm | [CS61B Data Structures ](http://www-inst.eecs.berkeley.edu/~cs61b) |
-| Operation System | [CS162 Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/) |
-| Computer Network | [CS168 Introduction to the Internet](http://www-inst.eecs.berkeley.edu/~cs168) |
-| Computer Architecture | [CS152 Computer Architecture and Engineering](http://www-inst.eecs.berkeley.edu/~cs152) |
-| Compilers | [CS164 Programming Languages and Compilers](http://www-inst.eecs.berkeley.edu/~cs164) |
-| Database | [CS186 Introduction to Database Systems](http://www-inst.eecs.berkeley.edu/~cs186) |
+|         Field          | Course                                                                                                                                                    |
+| :--------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       Algorithm        | [CS61B Data Structures ](http://www-inst.eecs.berkeley.edu/~cs61b)                                                                                        |
+|    Operation System    | [CS162 Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/)                                                                        |
+|    Computer Network    | [CS168 Introduction to the Internet](http://www-inst.eecs.berkeley.edu/~cs168)                                                                            |
+| Computer Architecture  | [CS152 Computer Architecture and Engineering](http://www-inst.eecs.berkeley.edu/~cs152)                                                                   |
+|       Compilers        | [CS164 Programming Languages and Compilers](http://www-inst.eecs.berkeley.edu/~cs164)                                                                     |
+|        Database        | [CS186 Introduction to Database Systems](http://www-inst.eecs.berkeley.edu/~cs186)                                                                        |
 | 计算机程序的构造和解释 | [CS61A Structure and Interpretation of Computer Programs](https://cs61a.org/) && [SICP of Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh) |
-| AI | [CS188 Introduction to Artificial Intelligence](http://www-inst.eecs.berkeley.edu/~cs188) |
-| ML | [CS189 Introduction to Machine Learning](http://www-inst.eecs.berkeley.edu/~cs189) |
+|           AI           | [CS188 Introduction to Artificial Intelligence](http://www-inst.eecs.berkeley.edu/~cs188)                                                                 |
+|           ML           | [CS189 Introduction to Machine Learning](http://www-inst.eecs.berkeley.edu/~cs189)                                                                        |
 
 All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-inst.eecs.berkeley.edu/classes-eecs.html).
 
 ## Shanghai Jiao Tong University
-| Field | Course |
-| :------: | :------ |
+|         Field          | Course                                                                |
+| :--------------------: | :-------------------------------------------------------------------- |
 | Reinforcement Learning | [CS26015, Fall 2019](http://www.cs.sjtu.edu.cn/~zou-jn/teaching.html) |
 
 ## NYU
-| Field | Course |
-| :------: | :------ |
+|      Field       | Course                                                                   |
+| :--------------: | :----------------------------------------------------------------------- |
 | Machine Learning | [DS-GA 1003, Spring 2019](https://davidrosenberg.github.io/ml2019/#home) |
 
 ## Summary

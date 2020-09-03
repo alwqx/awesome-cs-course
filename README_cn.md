@@ -10,16 +10,17 @@
 ## MIT
 MIT的课程非常全，基本没有你学不到的，内容也比较前沿：社会前沿内容比如区块链很早就开设了。老师和助教都很会讲课，基本每一门课都是精品课，值得学习。遗憾的地方在于MIT的课程、在线资料没有统一的网页进行归纳整理，有些课程需要学生自己去寻找资源。
 
-| 方向 | 课程 |
-| :------: | :------ |
-| 算法 | [6.006 Introduction to Algorithms](https://courses.csail.mit.edu/6.006/) |
-| 操作系统 | [6.828 Operating Systems](https://pdos.csail.mit.edu/6.828/2019/) |
-| 分布式系统 | [6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/) |
-| 网络 | [6.207[J] Networks]() |
-| 体系结构 | [6.004 Computation Structures](https://computationstructures.org/) |
-| 编译原理 | [6.035 Computer Language Engineering](http://web.mit.edu/6.035/) |
-| 数据库 | [6.830/6.814: Database Systems](http://db.csail.mit.edu/6.830/) |
-| 计算机程序的构造和解释 | [6.001 Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) |
+|                   方向                    | 课程                                                                                                                                                                                                    |
+| :---------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                   算法                    | [6.006 Introduction to Algorithms](https://courses.csail.mit.edu/6.006/)                                                                                                                                |
+|                 操作系统                  | [6.828 Operating Systems](https://pdos.csail.mit.edu/6.828/2019/)                                                                                                                                       |
+|                分布式系统                 | [6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/)                                                                                                                                          |
+|                   网络                    | [6.207[J] Networks]()                                                                                                                                                                                   |
+|                 体系结构                  | [6.004 Computation Structures](https://computationstructures.org/)                                                                                                                                      |
+|                 编译原理                  | [6.035 Computer Language Engineering](http://web.mit.edu/6.035/)                                                                                                                                        |
+|                  数据库                   | [6.830/6.814: Database Systems](http://db.csail.mit.edu/6.830/)                                                                                                                                         |
+|          计算机程序的构造和解释           | [6.001 Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) |
+| The Missing Semester of Your CS Education | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)                                                                                                                             |
 
 ## Stanford
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/stanford_01.jpeg)
@@ -102,42 +103,42 @@ Stanford和硅谷相辅相成，互相成就彼此。Stanford的教授、学生�
 ## CMU
 CMU的计算机独立设院，涵盖了所有的专业：人工智能、软件工程、计算机科学等。CMU拥有最好的人工智能和软件工程专业。非常务实，校训就是`My heart is in the work（我心于业）`，对学生要求高，课业负担重。因此她的本科毕业生在雇主中声誉很高。
 
-| 方向 | 课程 |
-| :------: | :------ |
-| 算法 | [15-451/651: Algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-s18/www/) |
-| 操作系统 | [15-213 Introduction to Computer Systems](http://www.cs.cmu.edu/~213/) |
-| 分布式系统 | [15-440 Distributed Systems](http://www.cs.cmu.edu/~srini/15-440/) & [course profiles](https://csd.cs.cmu.edu/course-profiles/15-440_640-distributed-systems)|
-| 网络 | [15-441/641 Computer Networks](https://computer-networks.github.io/sp19/) |
-| 体系结构 | [18-447 Introduction to Computer Architecture]() |
-| 编译原理 | [15-411 Compiler Design](https://www.cs.cmu.edu/~fp/courses/15411-f13/) |
-| 数据库 | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu) |
+|    方向    | 课程                                                                                                                                                          |
+| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|    算法    | [15-451/651: Algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-s18/www/)                                                                          |
+|  操作系统  | [15-213 Introduction to Computer Systems](http://www.cs.cmu.edu/~213/)                                                                                        |
+| 分布式系统 | [15-440 Distributed Systems](http://www.cs.cmu.edu/~srini/15-440/) & [course profiles](https://csd.cs.cmu.edu/course-profiles/15-440_640-distributed-systems) |
+|    网络    | [15-441/641 Computer Networks](https://computer-networks.github.io/sp19/)                                                                                     |
+|  体系结构  | [18-447 Introduction to Computer Architecture]()                                                                                                              |
+|  编译原理  | [15-411 Compiler Design](https://www.cs.cmu.edu/~fp/courses/15411-f13/)                                                                                       |
+|   数据库   | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu)                                                                                               |
 
 ## UC Berkeley
 UC Berkeley的课程编号统一，每一门课分别对应研究生课程和本科生课程，子编号是一致的。学校非常贴心地用专门的网页把所有课程整理好，包括课程的历史归档，方便学生查找学习。
 
-| 方向 | 课程 |
-| :------: | :------ |
-| 算法 | [CS61B Data Structures ](http://www-inst.eecs.berkeley.edu/~cs61b) |
-| 操作系统 | [CS162 Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/) |
-| 网络 | [CS168 Introduction to the Internet](http://www-inst.eecs.berkeley.edu/~cs168) |
-| 体系结构 | [CS152 Computer Architecture and Engineering](http://www-inst.eecs.berkeley.edu/~cs152) |
-| 编译原理 | [CS164 Programming Languages and Compilers](http://www-inst.eecs.berkeley.edu/~cs164) |
-| 数据库 | [CS186 Introduction to Database Systems](http://www-inst.eecs.berkeley.edu/~cs186) |
+|          方向          | 课程                                                                                                                                                      |
+| :--------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|          算法          | [CS61B Data Structures ](http://www-inst.eecs.berkeley.edu/~cs61b)                                                                                        |
+|        操作系统        | [CS162 Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/)                                                                        |
+|          网络          | [CS168 Introduction to the Internet](http://www-inst.eecs.berkeley.edu/~cs168)                                                                            |
+|        体系结构        | [CS152 Computer Architecture and Engineering](http://www-inst.eecs.berkeley.edu/~cs152)                                                                   |
+|        编译原理        | [CS164 Programming Languages and Compilers](http://www-inst.eecs.berkeley.edu/~cs164)                                                                     |
+|         数据库         | [CS186 Introduction to Database Systems](http://www-inst.eecs.berkeley.edu/~cs186)                                                                        |
 | 计算机程序的构造和解释 | [CS61A Structure and Interpretation of Computer Programs](https://cs61a.org/) && [SICP of Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh) |
-| AI | [CS188 Introduction to Artificial Intelligence](http://www-inst.eecs.berkeley.edu/~cs188) |
-| ML | [CS189 Introduction to Machine Learning](http://www-inst.eecs.berkeley.edu/~cs189) |
+|           AI           | [CS188 Introduction to Artificial Intelligence](http://www-inst.eecs.berkeley.edu/~cs188)                                                                 |
+|           ML           | [CS189 Introduction to Machine Learning](http://www-inst.eecs.berkeley.edu/~cs189)                                                                        |
 
 以上所有课程都可以访问[EECS Course WEB Sites](http://www-inst.eecs.berkeley.edu/classes-eecs.html)查找。
 
 ## 上海交通大学
-| Field | Course |
-| :------: | :------ |
+|         Field          | Course                                                                |
+| :--------------------: | :-------------------------------------------------------------------- |
 | Reinforcement Learning | [CS26015, Fall 2019](http://www.cs.sjtu.edu.cn/~zou-jn/teaching.html) |
 
 
 ## 纽约大学
-| Field | Course |
-| :------: | :------ |
+|      Field       | Course                                                                   |
+| :--------------: | :----------------------------------------------------------------------- |
 | Machine Learning | [DS-GA 1003, Spring 2019](https://davidrosenberg.github.io/ml2019/#home) |
 
 ## 总结
