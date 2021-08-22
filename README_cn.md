@@ -162,6 +162,7 @@ UC Berkeley的课程编号统一，每一门课分别对应研究生课程和本
 ](https://www.zhihu.com/question/29597104)
 - [GitHub-phil-opp/blog_os](https://github.com/phil-opp/blog_os)
 - [oscourse-tsinghua/rcore_plus](https://github.com/oscourse-tsinghua/rcore_plus)
+- [值得留给子孙后代的计算机课程](https://zhuanlan.zhihu.com/p/39030715)
 
 ### For Database
 - [Database System Concepts Seventh Edition](https://www.db-book.com/db7/index.html)
