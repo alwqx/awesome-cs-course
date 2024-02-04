@@ -1,13 +1,15 @@
 # Awesome CS Course
+
 [Chinese Edition](README_cn.md)
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/four_college.jpg" width="600px">
 </div>
 
->some awesome CS core courses of MIT, UC Berkeley, Stanford and CMU from the Internet.
+> some awesome CS core courses of MIT, UC Berkeley, Stanford and CMU from the Internet.
 
 ## MIT
+
 |                   Field                   | Course                                                                                                                                                                                                  |
 | :---------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |                 Algorithm                 | [6.006 Introduction to Algorithms](https://courses.csail.mit.edu/6.006/)                                                                                                                                |
@@ -21,6 +23,7 @@
 | The Missing Semester of Your CS Education | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)                                                                                                                             |
 
 ## Stanford
+
 <table>
     <thead>
         <tr>
@@ -95,6 +98,7 @@
 </table>
 
 ## CMU
+
 |         Field         | Course                                                                                                                                                        |
 | :-------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |       Algorithm       | [15-451/651: Algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-s18/www/)                                                                          |
@@ -106,6 +110,7 @@
 |       Database        | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu)                                                                                               |
 
 ## UC Berkeley
+
 |         Field          | Course                                                                                                                                                    |
 | :--------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |       Algorithm        | [CS61B Data Structures ](http://www-inst.eecs.berkeley.edu/~cs61b)                                                                                        |
@@ -121,38 +126,43 @@
 All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-inst.eecs.berkeley.edu/classes-eecs.html).
 
 ## Shanghai Jiao Tong University
+
 |         Field          | Course                                                                |
 | :--------------------: | :-------------------------------------------------------------------- |
 | Reinforcement Learning | [CS26015, Fall 2019](http://www.cs.sjtu.edu.cn/~zou-jn/teaching.html) |
 
 ## NYU
+
 |      Field       | Course                                                                   |
 | :--------------: | :----------------------------------------------------------------------- |
 | Machine Learning | [DS-GA 1003, Spring 2019](https://davidrosenberg.github.io/ml2019/#home) |
 
 ## Summary
+
 CS courses of university are helpful for us to learn computer science.As long as we stick to the right direction, keep working hard and adjust ourselves, everyone will make progress!
 
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/101_365.png)
 
 ## Reference
+
 - [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824)
 - [aQuaYi/MIT-6.824-Distributed-Systems](https://github.com/aQuaYi/MIT-6.824-Distributed-Systems)
 - [机器学习最好的课程是什么？](https://www.zhihu.com/question/37031588)
 - [MIT pdos GitHub](https://github.com/mit-pdos/)
 - [研究了美国四大计算机名校的培养方案，核心课程都在这了](https://mp.weixin.qq.com/s/39Un5UkLULC39s3PX10AbA)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
-- [全民CS、校训就是搬砖，这所学校计算机顶尖是有原因的](https://mp.weixin.qq.com/s/Nm4doXPPDzJJS0RSU5YSkA)
-- [为了培养计算机学生，这所学校把地租给科技公司，没想到......](https://mp.weixin.qq.com/s/deq-cT9139bJF7UGN4H8cA)
+- [全民 CS、校训就是搬砖，这所学校计算机顶尖是有原因的](https://mp.weixin.qq.com/s/Nm4doXPPDzJJS0RSU5YSkA)
+- [为了培养计算机学生，这所学校把地租给科技公司，没想到。.....](https://mp.weixin.qq.com/s/deq-cT9139bJF7UGN4H8cA)
 - [麻省理工学院是如何培养计算机学生的](https://mp.weixin.qq.com/s/eS-9OWZ1nWSPcrNd_GbuVA)
-- [UC Berkeley EECS系是如何培养计算机学生的](https://mp.weixin.qq.com/s/P2tNxWQW8nIewvw_jHdhFQ)
+- [UC Berkeley EECS 系是如何培养计算机学生的](https://mp.weixin.qq.com/s/P2tNxWQW8nIewvw_jHdhFQ)
 - [CMU 2015 15-213 BiliBili videos](https://www.bilibili.com/video/av12977597)
-- [知乎-如何的才能更好的学习MIT6.824Distributed System课程？
-](https://www.zhihu.com/question/29597104)
+- [知乎-如何的才能更好的学习 MIT6.824Distributed System 课程？
+  ](https://www.zhihu.com/question/29597104)
 - [GitHub-phil-opp/blog_os](https://github.com/phil-opp/blog_os)
 - [oscourse-tsinghua/rcore_plus](https://github.com/oscourse-tsinghua/rcore_plus)
 - [值得留给子孙后代的计算机课程](https://zhuanlan.zhihu.com/p/39030715)
 
 ### For Database
+
 - [Database System Concepts Seventh Edition](https://www.db-book.com/db7/index.html)
 - [GitHub of CMU DB](https://github.com/cmu-db)
