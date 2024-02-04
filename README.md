@@ -8,6 +8,25 @@
 
 > some awesome CS core courses of MIT, UC Berkeley, Stanford and CMU from the Internet.
 
+## LLM
+
+|  Field  | Course                                                                                                                                                  | Source          |
+| :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------- |
+| ChatGPT | [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)                       | deeplearning.ai |
+| ChatGPT | [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)                                       | deeplearning.ai |
+|   ML    | [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)                                                           | deeplearning.ai |
+|   LLM   | [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)                                                                 | deeplearning.ai |
+|   LLM   | [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)                                         | deeplearning.ai |
+|   LLM   | [Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)                          | deeplearning.ai |
+|   LLM   | [Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)                                                     | deeplearning.ai |
+|   LLM   | [LLMOps](https://www.deeplearning.ai/short-courses/llmops/)                                                                                             | deeplearning.ai |
+|   LLM   | [Advanced Retrieval for AI with Chroma](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)                                           | deeplearning.ai |
+| LLM/ML  | [Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/)                     | deeplearning.ai |
+|   LLM   | [Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)                        | deeplearning.ai |
+|   LLM   | [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)                                                     | Princeton       |
+|   LLM   | [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)                                                                           | Stanford        |
+|   LLM   | [CS224N-Lecture 11: Prompting, Instruction Finetuning, and RLHF](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf) | Stanford        |
+
 ## MIT
 
 |                   Field                   | Course                                                                                                                                                                                                  |
