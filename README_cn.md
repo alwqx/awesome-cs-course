@@ -1,14 +1,35 @@
 # Awesome CS Course
+
 [English](README.md)
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/four_college.jpg" width="600px">
 </div>
 
->研究了美国四大计算机名校：加州大学伯克利分校(UC Berkeley)、麻省理工学院(MIT)、斯坦福大学(Stanford)和卡耐基梅隆大学(CMU)的计算机专业培养方案。本项目将对这四所高校进行总结，列出各自的特点以及**核心课程资源**，方便大家学习。
+> 研究了美国四大计算机名校：加州大学伯克利分校 (UC Berkeley)、麻省理工学院 (MIT)、斯坦福大学 (Stanford) 和卡耐基梅隆大学 (CMU) 的计算机专业培养方案。本项目将对这四所高校进行总结，列出各自的特点以及**核心课程资源**，方便大家学习。
+
+## LLM
+
+|  Field  | Course                                                                                                                                                  | Source          |
+| :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------- |
+| ChatGPT | [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)                       | deeplearning.ai |
+| ChatGPT | [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)                                       | deeplearning.ai |
+|   ML    | [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)                                                           | deeplearning.ai |
+|   LLM   | [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)                                                                 | deeplearning.ai |
+|   LLM   | [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)                                         | deeplearning.ai |
+|   LLM   | [Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)                          | deeplearning.ai |
+|   LLM   | [Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)                                                     | deeplearning.ai |
+|   LLM   | [LLMOps](https://www.deeplearning.ai/short-courses/llmops/)                                                                                             | deeplearning.ai |
+|   LLM   | [Advanced Retrieval for AI with Chroma](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)                                           | deeplearning.ai |
+| LLM/ML  | [Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/)                     | deeplearning.ai |
+|   LLM   | [Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)                        | deeplearning.ai |
+|   LLM   | [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)                                                     | Princeton       |
+|   LLM   | [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)                                                                           | Stanford        |
+|   LLM   | [CS224N-Lecture 11: Prompting, Instruction Finetuning, and RLHF](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf) | Stanford        |
 
 ## MIT
-MIT的课程非常全，基本没有你学不到的，内容也比较前沿：社会前沿内容比如区块链很早就开设了。老师和助教都很会讲课，基本每一门课都是精品课，值得学习。遗憾的地方在于MIT的课程、在线资料没有统一的网页进行归纳整理，有些课程需要学生自己去寻找资源。
+
+MIT 的课程非常全，基本没有你学不到的，内容也比较前沿：社会前沿内容比如区块链很早就开设了。老师和助教都很会讲课，基本每一门课都是精品课，值得学习。遗憾的地方在于 MIT 的课程、在线资料没有统一的网页进行归纳整理，有些课程需要学生自己去寻找资源。
 
 |                   方向                    | 课程                                                                                                                                                                                                    |
 | :---------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -23,9 +44,10 @@ MIT的课程非常全，基本没有你学不到的，内容也比较前沿：�
 | The Missing Semester of Your CS Education | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)                                                                                                                             |
 
 ## Stanford
+
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/stanford_01.jpeg)
 
-Stanford和硅谷相辅相成，互相成就彼此。Stanford的教授、学生和工业界紧密联系，部分课程的老师把重点放在开公司上，会聘请老师代课。
+Stanford 和硅谷相辅相成，互相成就彼此。Stanford 的教授、学生和工业界紧密联系，部分课程的老师把重点放在开公司上，会聘请老师代课。
 
 <table>
     <thead>
@@ -101,7 +123,8 @@ Stanford和硅谷相辅相成，互相成就彼此。Stanford的教授、学生�
 </table>
 
 ## CMU
-CMU的计算机独立设院，涵盖了所有的专业：人工智能、软件工程、计算机科学等。CMU拥有最好的人工智能和软件工程专业。非常务实，校训就是`My heart is in the work（我心于业）`，对学生要求高，课业负担重。因此她的本科毕业生在雇主中声誉很高。
+
+CMU 的计算机独立设院，涵盖了所有的专业：人工智能、软件工程、计算机科学等。CMU 拥有最好的人工智能和软件工程专业。非常务实，校训就是`My heart is in the work（我心于业）`，对学生要求高，课业负担重。因此她的本科毕业生在雇主中声誉很高。
 
 |    方向    | 课程                                                                                                                                                          |
 | :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -114,7 +137,8 @@ CMU的计算机独立设院，涵盖了所有的专业：人工智能、软件�
 |   数据库   | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu)                                                                                               |
 
 ## UC Berkeley
-UC Berkeley的课程编号统一，每一门课分别对应研究生课程和本科生课程，子编号是一致的。学校非常贴心地用专门的网页把所有课程整理好，包括课程的历史归档，方便学生查找学习。
+
+UC Berkeley 的课程编号统一，每一门课分别对应研究生课程和本科生课程，子编号是一致的。学校非常贴心地用专门的网页把所有课程整理好，包括课程的历史归档，方便学生查找学习。
 
 |          方向          | 课程                                                                                                                                                      |
 | :--------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -128,42 +152,46 @@ UC Berkeley的课程编号统一，每一门课分别对应研究生课程和本
 |           AI           | [CS188 Introduction to Artificial Intelligence](http://www-inst.eecs.berkeley.edu/~cs188)                                                                 |
 |           ML           | [CS189 Introduction to Machine Learning](http://www-inst.eecs.berkeley.edu/~cs189)                                                                        |
 
-以上所有课程都可以访问[EECS Course WEB Sites](http://www-inst.eecs.berkeley.edu/classes-eecs.html)查找。
+以上所有课程都可以访问 [EECS Course WEB Sites](http://www-inst.eecs.berkeley.edu/classes-eecs.html) 查找。
 
 ## 上海交通大学
+
 |         Field          | Course                                                                |
 | :--------------------: | :-------------------------------------------------------------------- |
 | Reinforcement Learning | [CS26015, Fall 2019](http://www.cs.sjtu.edu.cn/~zou-jn/teaching.html) |
 
-
 ## 纽约大学
+
 |      Field       | Course                                                                   |
 | :--------------: | :----------------------------------------------------------------------- |
 | Machine Learning | [DS-GA 1003, Spring 2019](https://davidrosenberg.github.io/ml2019/#home) |
 
 ## 总结
+
 优秀的学校并不是每个人都可以录取，但是我们可以学习它们的优秀课程来提高自己。只要坚持正确的方向，不断努力和调整自己，每个人都会获得进步！
 
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/08/101_365.png)
 
 ## Reference
+
 - [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824)
 - [aQuaYi/MIT-6.824-Distributed-Systems](https://github.com/aQuaYi/MIT-6.824-Distributed-Systems)
 - [机器学习最好的课程是什么？](https://www.zhihu.com/question/37031588)
 - [MIT pdos GitHub](https://github.com/mit-pdos/)
 - [研究了美国四大计算机名校的培养方案，核心课程都在这了](https://mp.weixin.qq.com/s/39Un5UkLULC39s3PX10AbA)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
-- [全民CS、校训就是搬砖，这所学校计算机顶尖是有原因的](https://mp.weixin.qq.com/s/Nm4doXPPDzJJS0RSU5YSkA)
-- [为了培养计算机学生，这所学校把地租给科技公司，没想到......](https://mp.weixin.qq.com/s/deq-cT9139bJF7UGN4H8cA)
+- [全民 CS、校训就是搬砖，这所学校计算机顶尖是有原因的](https://mp.weixin.qq.com/s/Nm4doXPPDzJJS0RSU5YSkA)
+- [为了培养计算机学生，这所学校把地租给科技公司，没想到。.....](https://mp.weixin.qq.com/s/deq-cT9139bJF7UGN4H8cA)
 - [麻省理工学院是如何培养计算机学生的](https://mp.weixin.qq.com/s/eS-9OWZ1nWSPcrNd_GbuVA)
-- [UC Berkeley EECS系是如何培养计算机学生的](https://mp.weixin.qq.com/s/P2tNxWQW8nIewvw_jHdhFQ)
+- [UC Berkeley EECS 系是如何培养计算机学生的](https://mp.weixin.qq.com/s/P2tNxWQW8nIewvw_jHdhFQ)
 - [CMU 2015 15-213 BiliBili videos](https://www.bilibili.com/video/av12977597)
-- [知乎-如何的才能更好的学习MIT6.824分布式系统课程？
-](https://www.zhihu.com/question/29597104)
+- [知乎-如何的才能更好的学习 MIT6.824 分布式系统课程？
+  ](https://www.zhihu.com/question/29597104)
 - [GitHub-phil-opp/blog_os](https://github.com/phil-opp/blog_os)
 - [oscourse-tsinghua/rcore_plus](https://github.com/oscourse-tsinghua/rcore_plus)
 - [值得留给子孙后代的计算机课程](https://zhuanlan.zhihu.com/p/39030715)
 
 ### For Database
+
 - [Database System Concepts Seventh Edition](https://www.db-book.com/db7/index.html)
 - [GitHub of CMU DB](https://github.com/cmu-db)
