@@ -32,6 +32,8 @@
 |                   Field                   | Course                                                                                                                                                                                                  |
 | :---------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |                 Algorithm                 | [6.006 Introduction to Algorithms](https://courses.csail.mit.edu/6.006/)                                                                                                                                |
+|         Advanced Data Structures          | [OCW - 6.851 Advanced Data Structures](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/) or [CSAIL Page](https://courses.csail.mit.edu/6.851/)                                   |
+|            Advanced Algorithms            | [6.854J Advanced Algorithms](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/)                                                                                                         |
 |             Operation System              | [6.828 Operating Systems](https://pdos.csail.mit.edu/6.828/2019/)                                                                                                                                       |
 |            Distributed System             | [6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/)                                                                                                                                          |
 |             Computer Network              | [6.207[J] Networks]()                                                                                                                                                                                   |
@@ -84,6 +86,12 @@
             </td>
         </tr>
         <tr>
+            <td align="center">Advanced Data Structures</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs166/" rel="nofollow">CS 166 Advanced Data Structures</a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">Computer Network</td>
             <td align="left">
                 <a href="https://cs155.stanford.edu" rel="nofollow">CS 155 Computer and Network Security</a>
@@ -118,15 +126,16 @@
 
 ## CMU
 
-|         Field         | Course                                                                                                                                                        |
-| :-------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|       Algorithm       | [15-451/651: Algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-s18/www/)                                                                          |
-|   Operation System    | [15-213 Introduction to Computer Systems](http://www.cs.cmu.edu/~213/)                                                                                        |
-|  Distributed Systems  | [15-440 Distributed Systems](http://www.cs.cmu.edu/~srini/15-440/) & [course profiles](https://csd.cs.cmu.edu/course-profiles/15-440_640-distributed-systems) |
-|   Computer Network    | [15-441/641 Computer Networks](https://computer-networks.github.io/sp19/)                                                                                     |
-| Computer Architecture | [18-447 Introduction to Computer Architecture]()                                                                                                              |
-|       Compilers       | [15-411 Compiler Design](https://www.cs.cmu.edu/~fp/courses/15411-f13/)                                                                                       |
-|       Database        | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu)                                                                                               |
+|            Field            | Course                                                                                                                                                        |
+| :-------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|         Algorithms          | [15-451/651: Algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-s18/www/)                                                                          |
+| 15-850: Advanced Algorithms | [15-850: Advanced Algorithms](https://www.cs.cmu.edu/~15850/)                                                                                                 |
+|      Operation System       | [15-213 Introduction to Computer Systems](http://www.cs.cmu.edu/~213/)                                                                                        |
+|     Distributed Systems     | [15-440 Distributed Systems](http://www.cs.cmu.edu/~srini/15-440/) & [course profiles](https://csd.cs.cmu.edu/course-profiles/15-440_640-distributed-systems) |
+|      Computer Network       | [15-441/641 Computer Networks](https://computer-networks.github.io/sp19/)                                                                                     |
+|    Computer Architecture    | [18-447 Introduction to Computer Architecture]()                                                                                                              |
+|          Compilers          | [15-411 Compiler Design](https://www.cs.cmu.edu/~fp/courses/15411-f13/)                                                                                       |
+|          Database           | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu)                                                                                               |
 
 ## UC Berkeley
 
@@ -164,6 +173,7 @@ CS courses of university are helpful for us to learn computer science.As long as
 
 ## Reference
 
+- [CS 自学指南](https://csdiy.wiki/)
 - [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824)
 - [aQuaYi/MIT-6.824-Distributed-Systems](https://github.com/aQuaYi/MIT-6.824-Distributed-Systems)
 - [机器学习最好的课程是什么？](https://www.zhihu.com/question/37031588)
