@@ -92,6 +92,12 @@
             </td>
         </tr>
         <tr>
+            <td align="center">The Modern Algorithmic Toolbox</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs168/" rel="nofollow">CS 168 The Modern Algorithmic Toolbox</a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">Computer Network</td>
             <td align="left">
                 <a href="https://cs155.stanford.edu" rel="nofollow">CS 155 Computer and Network Security</a>
