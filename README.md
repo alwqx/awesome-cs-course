@@ -42,6 +42,7 @@
 |                 Database                  | [6.830/6.814: Database Systems](http://db.csail.mit.edu/6.830/)                                                                                                                                         |
 |          计算机程序的构造和解释           | [6.001 Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) |
 | The Missing Semester of Your CS Education | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)                                                                                                                             |
+|     Mathematics for Computer Science      | [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)                                                                                      |
 
 ## Stanford
 
