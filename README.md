@@ -26,6 +26,8 @@
 |   LLM   | [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)                                                     | Princeton       |
 |   LLM   | [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)                                                                           | Stanford        |
 |   LLM   | [CS224N-Lecture 11: Prompting, Instruction Finetuning, and RLHF](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf) | Stanford        |
+|   LLM   | [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)                                                       | Uwaterloo       |
+|   LLM   | [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)                                                          | GitHub          |
 
 ## MIT
 
@@ -136,6 +138,54 @@
                 <a href="https://web.stanford.edu/class/cme304/" rel="nofollow">CME 304 Numerical Optimization</a>
             </td>
         </tr>
+        <tr>
+            <td align="center">Deep Generative Models</td>
+            <td align="left">
+                <a href="https://deepgenerativemodels.github.io/" rel="nofollow">CS236 Deep Generative Models</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS229 - Machine Learning</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs229/" rel="nofollow">CS229 - Machine Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS230 - Deep Learning</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs230/" rel="nofollow">CS230 - Deep Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS234 - Reinforcement Learning</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs234/" rel="nofollow">CS234 - Reinforcement Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS229M - ML Theory</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs229m/" rel="nofollow">CS229M - ML Theory</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS224U - NL Understanding</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs224u/" rel="nofollow">CS224U - NL Understanding</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS224N - NLP with Deep Learning</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs224n/" rel="nofollow">CS224N - NLP with Deep Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS146S: The Modern Software Developer</td>
+            <td align="left">
+                <a href="https://themodernsoftware.dev/" rel="nofollow">CS146S: The Modern Software Developer</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -176,9 +226,10 @@ All courses of UC Berkeley can be found in [EECS Course WEB Sites](http://www-in
 
 ## NYU
 
-|      Field       | Course                                                                   |
-| :--------------: | :----------------------------------------------------------------------- |
-| Machine Learning | [DS-GA 1003, Spring 2019](https://davidrosenberg.github.io/ml2019/#home) |
+|              Field              | Course                                                                   |
+| :-----------------------------: | :----------------------------------------------------------------------- |
+|        Machine Learning         | [DS-GA 1003, Spring 2019](https://davidrosenberg.github.io/ml2019/#home) |
+| Foundations of Machine Learning | [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)     |
 
 ## Summary
 
@@ -188,6 +239,7 @@ CS courses of university are helpful for us to learn computer science.As long as
 
 ## Reference
 
+- [Seeing Theory](https://seeing-theory.brown.edu/cn.html)
 - [CS 自学指南](https://csdiy.wiki/)
 - [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824)
 - [aQuaYi/MIT-6.824-Distributed-Systems](https://github.com/aQuaYi/MIT-6.824-Distributed-Systems)

@@ -26,31 +26,36 @@
 |   LLM   | [Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)                                                     | Princeton       |
 |   LLM   | [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)                                                                           | Stanford        |
 |   LLM   | [CS224N-Lecture 11: Prompting, Instruction Finetuning, and RLHF](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf) | Stanford        |
+|   LLM   | [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)                                                       | Uwaterloo       |
+|   LLM   | [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)                                                          | GitHub          |
 
 ## MIT
 
 MIT 的课程非常全，基本没有你学不到的，内容也比较前沿：社会前沿内容比如区块链很早就开设了。老师和助教都很会讲课，基本每一门课都是精品课，值得学习。遗憾的地方在于 MIT 的课程、在线资料没有统一的网页进行归纳整理，有些课程需要学生自己去寻找资源。
 
-|                        方向                        | 课程                                                                                                                                                                                                    |
-| :------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                        算法                        | [6.006 Introduction to Algorithms](https://courses.csail.mit.edu/6.006/)                                                                                                                                |
-|                      操作系统                      | [6.828 Operating Systems](https://pdos.csail.mit.edu/6.828/2019/)                                                                                                                                       |
-|                     分布式系统                     | [6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/)                                                                                                                                          |
-|                        网络                        | [6.207[J] Networks]()                                                                                                                                                                                   |
-|                      体系结构                      | [6.004 Computation Structures](https://computationstructures.org/)                                                                                                                                      |
-|                      编译原理                      | [6.035 Computer Language Engineering](http://web.mit.edu/6.035/)                                                                                                                                        |
-|                       数据库                       | [6.830/6.814: Database Systems](http://db.csail.mit.edu/6.830/)                                                                                                                                         |
-|               计算机程序的构造和解释               | [6.001 Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) |
-|     The Missing Semester of Your CS Education      | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)                                                                                                                             |
-|          Mathematics for Computer Science          | [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)                                                                                      |
-|          6.034 - Artificial Intelligence           | [6.034 - Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)                                                                                                 |
-|             6.036 - Introduction to ML             | [6.036 - Introduction to ML](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/)                                                                                           |
-|       6.S191 - Introduction to Deep Learning       | [6.S191 - Introduction to Deep Learning](https://introtodeeplearning.com/)                                                                                                                              |
-|      18.657 - Mathematics of Machine Learning      | [18.657 - Mathematics of Machine Learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/)                                                                               |
-|          18.S096 - Matrix Calculus for ML          | [18.S096 - Matrix Calculus for ML](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE)                                                                                            |
-|               18.06 - Linear Algebra               | [18.06 - Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)                                                                                                                      |
-| 18.05 - Introduction to Probability and Statistics | [18.05 - Introduction to Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/)                                                         |
-|                6.867 - Advanced ML                 | [6.867 - Advanced ML](https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/)                                                                                                                    |
+|                                  方向                                   | 课程                                                                                                                                                                                                    |
+| :---------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                  算法                                   | [6.006 Introduction to Algorithms](https://courses.csail.mit.edu/6.006/)                                                                                                                                |
+|                        Advanced Data Structures                         | [OCW - 6.851 Advanced Data Structures](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/) or [CSAIL Page](https://courses.csail.mit.edu/6.851/)                                   |
+|                           Advanced Algorithms                           | [6.854J Advanced Algorithms](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/)                                                                                                         |
+|                                操作系统                                 | [6.828 Operating Systems](https://pdos.csail.mit.edu/6.828/2019/)                                                                                                                                       |
+|                               分布式系统                                | [6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/)                                                                                                                                          |
+|                                  网络                                   | [6.207[J] Networks]()                                                                                                                                                                                   |
+|                                体系结构                                 | [6.004 Computation Structures](https://computationstructures.org/)                                                                                                                                      |
+|                                编译原理                                 | [6.035 Computer Language Engineering](http://web.mit.edu/6.035/)                                                                                                                                        |
+|                                 数据库                                  | [6.830/6.814: Database Systems](http://db.csail.mit.edu/6.830/)                                                                                                                                         |
+|                         计算机程序的构造和解释                          | [6.001 Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) |
+|                The Missing Semester of Your CS Education                | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)                                                                                                                             |
+|                    Mathematics for Computer Science                     | [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)                                                                                      |
+|                     6.034 - Artificial Intelligence                     | [6.034 - Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)                                                                                                 |
+|                       6.036 - Introduction to ML                        | [6.036 - Introduction to ML](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/)                                                                                           |
+| MIT Course 6.S184: Generative AI with Stochastic Differential Equations | [MIT Course 6.S184: Generative AI with Stochastic Differential Equations](https://diffusion.csail.mit.edu/2026/index.html)                                                                              |
+|                 6.S191 - Introduction to Deep Learning                  | [6.S191 - Introduction to Deep Learning](https://introtodeeplearning.com/)                                                                                                                              |
+|                18.657 - Mathematics of Machine Learning                 | [18.657 - Mathematics of Machine Learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/)                                                                               |
+|                    18.S096 - Matrix Calculus for ML                     | [18.S096 - Matrix Calculus for ML](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE)                                                                                            |
+|                         18.06 - Linear Algebra                          | [18.06 - Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)                                                                                                                      |
+|           18.05 - Introduction to Probability and Statistics            | [18.05 - Introduction to Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/)                                                         |
+|                           6.867 - Advanced ML                           | [6.867 - Advanced ML](https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/)                                                                                                                    |
 
 ## Stanford
 
@@ -128,6 +133,54 @@ Stanford 和硅谷相辅相成，互相成就彼此。Stanford 的教授、学�
                 <a href="https://web.stanford.edu/class/cme304/" rel="nofollow">CME 304 Numerical Optimization</a>
             </td>
         </tr>
+        <tr>
+            <td align="center">Deep Generative Models</td>
+            <td align="left">
+                <a href="https://deepgenerativemodels.github.io/" rel="nofollow">CS236 Deep Generative Models</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS229 - Machine Learning</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs229/" rel="nofollow">CS229 - Machine Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS230 - Deep Learning</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs230/" rel="nofollow">CS230 - Deep Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS234 - Reinforcement Learning</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs234/" rel="nofollow">CS234 - Reinforcement Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS229M - ML Theory</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs229m/" rel="nofollow">CS229M - ML Theory</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS224U - NL Understanding</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs224u/" rel="nofollow">CS224U - NL Understanding</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS224N - NLP with Deep Learning</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs224n/" rel="nofollow">CS224N - NLP with Deep Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">CS146S: The Modern Software Developer</td>
+            <td align="left">
+                <a href="https://themodernsoftware.dev/" rel="nofollow">CS146S: The Modern Software Developer</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -171,9 +224,10 @@ UC Berkeley 的课程编号统一，每一门课分别对应研究生课程和�
 
 ## 纽约大学
 
-|      Field       | Course                                                                   |
-| :--------------: | :----------------------------------------------------------------------- |
-| Machine Learning | [DS-GA 1003, Spring 2019](https://davidrosenberg.github.io/ml2019/#home) |
+|              Field              | Course                                                                   |
+| :-----------------------------: | :----------------------------------------------------------------------- |
+|        Machine Learning         | [DS-GA 1003, Spring 2019](https://davidrosenberg.github.io/ml2019/#home) |
+| Foundations of Machine Learning | [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)     |
 
 ## 总结
 
@@ -183,6 +237,7 @@ UC Berkeley 的课程编号统一，每一门课分别对应研究生课程和�
 
 ## Reference
 
+- [Seeing Theory](https://seeing-theory.brown.edu/cn.html)
 - [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824)
 - [aQuaYi/MIT-6.824-Distributed-Systems](https://github.com/aQuaYi/MIT-6.824-Distributed-Systems)
 - [机器学习最好的课程是什么？](https://www.zhihu.com/question/37031588)
