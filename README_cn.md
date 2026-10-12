@@ -72,7 +72,7 @@ Stanford 和硅谷相辅相成，互相成就彼此。Stanford 的教授、学�
     </thead>
     <tbody>
         <tr>
-            <th rowspan="5" align="center">操作系统</th>
+            <td rowspan="5" align="center">操作系统</td>
             <td align="left">
                 <a href="http://cs107.stanford.edu" rel="nofollow">CS 107 Computer Organization & Systems</a>
             </td>
@@ -95,6 +95,57 @@ Stanford 和硅谷相辅相成，互相成就彼此。Stanford 的教授、学�
         <tr>
             <td align="left">
                 <a href="http://cs240.stanford.edu" rel="nofollow">CS 240 Advanced Topics in Operating Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="10" align="center">ML</td>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs221/" rel="nofollow">CS 221 CS221: Artificial Intelligence: Principles and Techniques</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="https://deepgenerativemodels.github.io/" rel="nofollow">CS236 Deep Generative Models</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs229/" rel="nofollow">CS229 - Machine Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs230/" rel="nofollow">CS230 - Deep Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs234/" rel="nofollow">CS234 - Reinforcement Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs229m/" rel="nofollow">CS229M - ML Theory</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs224u/" rel="nofollow">CS224U - NL Understanding</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="http://web.stanford.edu/class/cs224n/" rel="nofollow">CS224N - NLP with Deep Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="https://cs336.stanford.edu/" rel="nofollow">CS336: Language Modeling from Scratch</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="https://cme295.stanford.edu/" rel="nofollow">CME 295 - Transformers & Large Language Models</a>
             </td>
         </tr>
         <tr>
@@ -122,57 +173,9 @@ Stanford 和硅谷相辅相成，互相成就彼此。Stanford 的教授、学�
             </td>
         </tr>
         <tr>
-            <td align="center">ML</td>
-            <td align="left">
-                <a href="http://web.stanford.edu/class/cs221/" rel="nofollow">CS 221 CS221: Artificial Intelligence: Principles and Techniques</a>
-            </td>
-        </tr>
-        <tr>
             <td align="center">数值优化</td>
             <td align="left">
                 <a href="https://web.stanford.edu/class/cme304/" rel="nofollow">CME 304 Numerical Optimization</a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">Deep Generative Models</td>
-            <td align="left">
-                <a href="https://deepgenerativemodels.github.io/" rel="nofollow">CS236 Deep Generative Models</a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">CS229 - Machine Learning</td>
-            <td align="left">
-                <a href="http://web.stanford.edu/class/cs229/" rel="nofollow">CS229 - Machine Learning</a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">CS230 - Deep Learning</td>
-            <td align="left">
-                <a href="http://web.stanford.edu/class/cs230/" rel="nofollow">CS230 - Deep Learning</a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">CS234 - Reinforcement Learning</td>
-            <td align="left">
-                <a href="http://web.stanford.edu/class/cs234/" rel="nofollow">CS234 - Reinforcement Learning</a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">CS229M - ML Theory</td>
-            <td align="left">
-                <a href="http://web.stanford.edu/class/cs229m/" rel="nofollow">CS229M - ML Theory</a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">CS224U - NL Understanding</td>
-            <td align="left">
-                <a href="http://web.stanford.edu/class/cs224u/" rel="nofollow">CS224U - NL Understanding</a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">CS224N - NLP with Deep Learning</td>
-            <td align="left">
-                <a href="http://web.stanford.edu/class/cs224n/" rel="nofollow">CS224N - NLP with Deep Learning</a>
             </td>
         </tr>
         <tr>
@@ -197,6 +200,7 @@ CMU 的计算机独立设院，涵盖了所有的专业：人工智能、软件�
 |  体系结构  | [18-447 Introduction to Computer Architecture]()                                                                                                              |
 |  编译原理  | [15-411 Compiler Design](https://www.cs.cmu.edu/~fp/courses/15411-f13/)                                                                                       |
 |   数据库   | [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu)                                                                                               |
+|     ML     | [11-768: AI Agents](https://www.cmu-agents.com/)                                                                                                              |
 
 ## UC Berkeley
 
