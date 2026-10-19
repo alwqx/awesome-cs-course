@@ -29,6 +29,11 @@
 |   LLM   | [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)                                                       | Uwaterloo       |
 |   LLM   | [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)                                                          | GitHub          |
 
+## Harvard
+
+| :------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CS2680 Modern AI Systems: Agents and System Optimizations | [CS2680 Modern AI Systems](https://cs2680.seas.harvard.edu/) |
+
 ## MIT
 
 MIT 的课程非常全，基本没有你学不到的，内容也比较前沿：社会前沿内容比如区块链很早就开设了。老师和助教都很会讲课，基本每一门课都是精品课，值得学习。遗憾的地方在于 MIT 的课程、在线资料没有统一的网页进行归纳整理，有些课程需要学生自己去寻找资源。
