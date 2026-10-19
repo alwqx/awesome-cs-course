@@ -29,6 +29,11 @@
 |   LLM   | [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)                                                       | Uwaterloo       |
 |   LLM   | [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)                                                          | GitHub          |
 
+## Harvard
+
+| :------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CS2680 Modern AI Systems: Agents and System Optimizations | [CS2680 Modern AI Systems](https://cs2680.seas.harvard.edu/) |
+
 ## MIT
 
 |                       Field                        | Course                                                                                                                                                                                                  |
